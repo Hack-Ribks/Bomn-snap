@@ -13,7 +13,7 @@ else:
 
 
 
-url = 'https://accounts.snapchat.com/accounts/login?client_id=geo'
+req = ('https://accounts.snapchat.com/accounts/login?client_id=geo')
 username = input('Enter Username ==> : ')
 
 
